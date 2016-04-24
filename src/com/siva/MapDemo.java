@@ -9,6 +9,8 @@ public class MapDemo {
 	      m1.put("Mahnaz", "31");
 	      m1.put("Ayan", "12");
 	      m1.put("Daisy", "14");
+
+		/* Adding a Comment */
 	      System.out.println();
 	      System.out.println(" Map Elements");
 	      System.out.print("\t" + m1);
