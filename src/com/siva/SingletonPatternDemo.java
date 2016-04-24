@@ -7,6 +7,8 @@ public class SingletonPatternDemo {
 	      //Compile Time Error: The constructor SingleObject() is not visible
 	      //SingleObject object = new SingleObject();
 
+           //test 5
+
 	      //Get the only object available
 	      SingleObject object = SingleObject.getInstance();
 
